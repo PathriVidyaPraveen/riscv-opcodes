@@ -1,2 +1,1 @@
-# ReLU (custom ML extension)
-relu    rd rs1    31..25=0x20 14..12=0x0 6..0=0x0B
+
